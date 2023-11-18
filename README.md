@@ -1,4 +1,4 @@
-## Olá! Eu sou o Herbert Sampaio, desenvolvedor front-end e estudante fullstack.
+## Olá! Eu sou o Herbert Sampaio, desenvolvedor front-end.
  <div>
   <a href="https://github.com/HerbertSSampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertSSampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
