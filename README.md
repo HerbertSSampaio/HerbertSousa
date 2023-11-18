@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Herbert Sampaio, desenvolvedor front-end e estudante fullstack.
  <div>
   <a href="https://github.com/HerbertSSampaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertSousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertSousa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertSSampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertSSampaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Herbert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
